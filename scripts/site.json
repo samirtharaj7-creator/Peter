@@ -1,0 +1,65 @@
+{
+  "key": "peter",
+  "title": "Peter Study",
+  "domain": "peter.mybibleexplorer.com",
+  "totalVerses": 166,
+  "totalChapters": 8,
+  "books": [
+    {
+      "slug": "1-peter",
+      "name": "1 Peter",
+      "verseCounts": [
+        25,
+        25,
+        22,
+        19,
+        14
+      ]
+    },
+    {
+      "slug": "2-peter",
+      "name": "2 Peter",
+      "verseCounts": [
+        21,
+        22,
+        18
+      ]
+    }
+  ],
+  "backgroundSections": [
+    [
+      "petrine-authorship",
+      "Petrine Authorship"
+    ],
+    [
+      "date-and-place-of-writing",
+      "Date and Place of Writing"
+    ],
+    [
+      "the-readers-and-their-world",
+      "The Readers and Their World"
+    ],
+    [
+      "peters-life-and-ministry",
+      "Peter's Life and Ministry"
+    ],
+    [
+      "suffering-and-hope-in-the-roman-world",
+      "Suffering and Hope in the Roman World"
+    ],
+    [
+      "why-peter-wrote-1-peter",
+      "Why Peter Wrote 1 Peter"
+    ],
+    [
+      "why-peter-wrote-2-peter",
+      "Why Peter Wrote 2 Peter"
+    ],
+    [
+      "how-the-letters-fit-together",
+      "How the Letters Fit Together"
+    ]
+  ],
+  "timelineSection": "peters-life-and-ministry",
+  "finalSection": "how-the-letters-fit-together"
+}
